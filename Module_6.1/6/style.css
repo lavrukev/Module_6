@@ -1,0 +1,6 @@
+p::after {
+  content: "\002A \002A \002A";
+}
+p::before {
+  content: "\2602";
+}

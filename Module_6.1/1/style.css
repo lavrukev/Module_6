@@ -1,0 +1,18 @@
+.red {
+  background-color: green;
+}
+.yellow {
+  background-color: purple;
+}
+.red:hover {
+  background-color: yellow;
+}
+.red:active {
+  background-color: red;
+}
+.yellow:hover {
+ background-color: gold;
+}
+.yellow:active {
+  background-color: brown;
+}

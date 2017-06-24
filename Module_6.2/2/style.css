@@ -1,0 +1,15 @@
+* {
+  font-family: Arial;
+  font-size: 13px;
+}
+table {
+  border-collapse: collapse;
+}
+
+th {
+ padding: 10px 70px;
+ 
+}
+tr:first-child {
+   border-bottom: 1px solid red;
+}
