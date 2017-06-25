@@ -1,12 +1,12 @@
 * {
-  font-family: Arial;
-  font-size: 13px;
+	font-family: Arial;
+	font-size: 13px;
 }
 table {
-  border-collapse: collapse;
+	border-collapse: collapse;
 }
 
 th {
- padding: 10px 70px;
- border-bottom: 1px solid grey;
+	padding: 10px 70px;
+	border-bottom: 1px solid grey;
  }
